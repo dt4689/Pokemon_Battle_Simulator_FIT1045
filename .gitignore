@@ -1,0 +1,5 @@
+.DS_Store
+*.ogg
+*.mp3
+logs/
+.vscode/
